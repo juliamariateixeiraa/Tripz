@@ -1,0 +1,108 @@
+.screen-feature-list {
+    align-items: flex-start;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    padding: 120px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .screen-feature-list .heading {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .screen-feature-list .heading-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    max-width: 1060px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .screen-feature-list .text-wrapper {
+    color: #191919;
+    flex: 1;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 72px;
+    font-weight: 900;
+    letter-spacing: -2.88px;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+  }
+  
+  .screen-feature-list .paragraph {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    opacity: 0.6;
+    position: relative;
+  }
+  
+  .screen-feature-list .wrapper {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-wrap: wrap;
+    gap: 4px 4px;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+  }
+  
+  .screen-feature-list .feature-list {
+    align-items: flex-start;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 12px;
+    justify-content: center;
+    max-width: 610px;
+    min-width: 400px;
+    overflow: hidden;
+    padding: 24px;
+    position: relative;
+  }
+  
+  .screen-feature-list .div {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 40px;
+    font-weight: 900;
+    letter-spacing: -1.60px;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+  }
+  
+  .screen-feature-list .p {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    opacity: 0.5;
+    position: relative;
+  }
+  
